@@ -5,5 +5,9 @@ PROD_PUPPIS =
       (SERVICE_NAME = prod.saga.co.uk)
     )
   )
+  
+####################################
+Oracle Client Install
+####################################
 https://serverfault.com/questions/175257/how-to-install-oracle-ole-drivers-for-use-in-sql-server-2008-r2-x64
 https://ayadshammout.com/2015/02/06/ssis-to-oracle-connection/
